@@ -8,9 +8,9 @@
  f. This is my own work, and I did not cheat on this assignment.
 
 2.) List of source files submitted
- a. ProblemCereal
- b. ProblemFireCapacity
- c. ProblemEmployeePay
+ a. ProblemCereal.cpp
+ b. ProblemFireCapacity.cpp
+ c. ProblemEmployeePay.cpp
 
 3.) References used to complete the assignment
  a. Zybooks Chapter 1 & 2
